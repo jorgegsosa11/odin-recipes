@@ -1,0 +1,25 @@
+/* CSS FOR INDEX.HTML */
+
+body {
+    background-color: rgb(250, 205, 205)
+  }
+.header {
+    background-color: rgb(167, 190, 159);
+    text-align: center;
+    padding: 15px;
+    border-radius: 12px;
+
+
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+ li {
+    display: inline;
+    margin-right: 10px;
+ }
+
+ a {
+    font-size: 25px;
+ }
